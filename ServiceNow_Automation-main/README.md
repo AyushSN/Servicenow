@@ -1,0 +1,2 @@
+# ServiceNow_Automation
+ **ServiceNow Puppeteer Script** is a powerful automation tool designed to log in to ServiceNow using credentials and scrape data from incident and ctask queues. It sends reminder emails to the assigned personnel to prevent SLA breaches. Perfect for ensuring timely task management and enhancing productivity, this script streamlines the process, making it efficient and effective. 💼📧
